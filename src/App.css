@@ -1,0 +1,41 @@
+.result {
+  height: 60px;
+  background-color: rgb(245, 243, 243);
+  width: 100%;
+  border-radius: 15px;
+}
+
+.result p {
+  font-size: 40px;
+  margin: 5px;
+  
+
+}
+
+.calculator-body {
+  
+  max-width: 400px;
+  margin: 150px 550px;
+}
+
+.button {
+  display: block;  
+  border-radius: 15px;
+}
+
+button {
+  width: 25%;
+  height: 60px;
+  font-size: 30px;
+  border-radius: 15px;
+}
+.amallar{
+  background-color: rgb(255, 166, 0);
+}
+.natija{
+  background-color: teal;
+}
+.clear{
+  background-color: tomato;
+  width: 200px;
+}
